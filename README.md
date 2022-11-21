@@ -5,4 +5,4 @@ I refered to this article: https://www.magesblog.com/post/2014-12-02-measuring-t
 
 #### (Hardware platform: custom designed nRF52840 board with Adafruit Feather nRF52840 Express bootloader, VSCode + PlatformIO)
 
-![Test result (MPU6050 X-axis Accelerameter data)](result.png)
+![Test result (MPU6050 X-axis Accelerameter data)](filtering_result.png)
